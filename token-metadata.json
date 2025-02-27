@@ -3,6 +3,7 @@
     "name": "Elemental",
     "contract": "0x000000000000000000000000000000000000",
     "icon_url": "https://raw.githubusercontent.com/TheElementalNetwork/tokens-metadata/refs/heads/main/icons/elemental-logo.png",
-    "symbol": "TEN"
+    "symbol": "TEN",
+    "type": "native"
   }
 ]
